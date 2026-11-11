@@ -8,14 +8,21 @@ Programma voor het magazijn: leest een goederenontvangst uit SAP en zet een conc
 
 ## Installeren
 
-1. Klik met de rechtermuisknop op `WO-Flitser.zip` en kies **Alles uitpakken**. Kies als plek bijvoorbeeld *Documenten*.
-2. Open de uitgepakte map **WO-Flitser** en dubbelklik op **WO-Flitser.exe**.
-3. Ziet u "Windows heeft uw pc beschermd"? Klik op **Meer info** en daarna op **Toch uitvoeren**.
-4. Het programma helpt u daarna met instellen.
-5. Tip: bij *Instellingen > Bronnen* staat de knop **Snelkoppeling op bureaublad maken**. Daarna start het programma ook met **Ctrl+Alt+M**.
+1. Klik met de rechtermuisknop op `WO-Flitser.zip` en kies **Alles uitpakken**.
+2. Klik op **Bladeren** en kies je eigen gebruikersmap: `C:\Users\<jouw naam>`. Er komt dan een map `WO-Flitser` in. Niet in *Downloads* (wordt vaak opgeruimd) en liever niet in een map die met OneDrive synchroniseert.
+3. Open de map **WO-Flitser** en dubbelklik op **WO-Flitser.exe**. Eerst uitpakken: de exe starten vanuit de zip werkt niet.
+4. Ziet u "Windows heeft uw pc beschermd"? Klik op **Meer info** en daarna op **Toch uitvoeren**.
+5. Het programma helpt u daarna met instellen.
 
-Laat de map *Tesseract-OCR* in de map WO-Flitser staan.
+Laat de mappen *Tesseract-OCR* en *_internal* in de map WO-Flitser staan.
 
-Nieuwe versie? Sluit het programma en pak de nieuwe zip uit over de oude map heen. Uw instellingen en ontvangers blijven bewaard.
+## Icoon op het bureaublad (optioneel)
 
-Huidige versie: 2.1.2
+1. Rechtermuisknop op `WO-Flitser.exe` > **Meer opties weergeven** > **Kopiëren naar** > **Bureaublad (snelkoppeling maken)**.
+2. Sneltoets: rechtermuisknop op het nieuwe icoon > **Eigenschappen** > klik in het veld **Sneltoets** en druk op bijvoorbeeld **M** (wordt Ctrl + Alt + M) > **OK**.
+
+## Nieuwe versie
+
+Sluit het programma en pak de nieuwe zip uit naar dezelfde plek (bestanden vervangen). Instellingen, kalibratie en ontvangers blijven bewaard.
+
+Huidige versie: 2.2.0
