@@ -16,13 +16,14 @@ Programma voor het magazijn: leest een goederenontvangst uit SAP en zet een conc
 
 Laat de mappen *Tesseract-OCR* en *_internal* in de map WO-Flitser staan.
 
-## Icoon op het bureaublad (optioneel)
+## Openen met Ctrl+Alt+M
 
-1. Rechtermuisknop op `WO-Flitser.exe` > **Meer opties weergeven** > **Kopiëren naar** > **Bureaublad (snelkoppeling maken)**.
-2. Sneltoets: rechtermuisknop op het nieuwe icoon > **Eigenschappen** > klik in het veld **Sneltoets** en druk op bijvoorbeeld **M** (wordt Ctrl + Alt + M) > **OK**.
+Het programma start mee met Windows en wacht op de achtergrond, met een icoontje rechtsonder bij de klok. **Ctrl+Alt+M** opent het, zo vaak als u wilt. Het kruisje verbergt het venster alleen; echt afsluiten via rechtermuisknop op het icoontje bij de klok > **Afsluiten**.
+
+Liever ook een icoon op het bureaublad? Rechtermuisknop op `WO-Flitser.exe` > **Meer opties weergeven** > **Kopiëren naar** > **Bureaublad (snelkoppeling maken)**. Zet daar geen sneltoets op.
 
 ## Nieuwe versie
 
-Sluit het programma en pak de nieuwe zip uit naar dezelfde plek (bestanden vervangen). Instellingen, kalibratie en ontvangers blijven bewaard.
+Sluit het programma (icoontje bij de klok > Afsluiten) en pak de nieuwe zip uit naar dezelfde plek (bestanden vervangen). Instellingen, kalibratie en ontvangers blijven bewaard.
 
-Huidige versie: 2.2.1
+Huidige versie: 2.3.0
