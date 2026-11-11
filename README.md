@@ -17,4 +17,4 @@ Klik op een van deze links. De download begint direct en is altijd de nieuwste v
 
 Een nieuwe versie installeert u op dezelfde manier. Uw instellingen en ontvangers blijven bewaard.
 
-Huidige versie: 2.0.5
+Huidige versie: 2.1.0
