@@ -18,4 +18,4 @@ Laat de map *Tesseract-OCR* in de map WO-Flitser staan.
 
 Nieuwe versie? Sluit het programma en pak de nieuwe zip uit over de oude map heen. Uw instellingen en ontvangers blijven bewaard.
 
-Huidige versie: 2.1.1
+Huidige versie: 2.1.2
