@@ -6,6 +6,10 @@ Programma voor het magazijn: leest een goederenontvangst uit SAP en zet een conc
 
 **[WO-Flitser.zip downloaden](https://github.com/teunbinkie/WO-Flitser-download/raw/main/WO-Flitser.zip)** (altijd de nieuwste versie)
 
+## Werkinstructie
+
+**[Werkinstructie lezen](WERKINSTRUCTIE.md)**: hoe je een bestelling mailt en hoe je Kalibratie en Locaties instelt, met screenshots.
+
 ## Installeren
 
 1. Klik met de rechtermuisknop op `WO-Flitser.zip` en kies **Alles uitpakken**.
