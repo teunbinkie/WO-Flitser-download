@@ -25,4 +25,4 @@ Laat de mappen *Tesseract-OCR* en *_internal* in de map WO-Flitser staan.
 
 Sluit het programma en pak de nieuwe zip uit naar dezelfde plek (bestanden vervangen). Instellingen, kalibratie en ontvangers blijven bewaard.
 
-Huidige versie: 2.2.0
+Huidige versie: 2.2.1
