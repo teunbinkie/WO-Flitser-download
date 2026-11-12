@@ -29,4 +29,4 @@ Laat de mappen *Tesseract-OCR* en *_internal* in de map WO-Flitser staan.
 
 Sluit het programma en pak de nieuwe zip uit naar dezelfde plek; kies bij de vraag van Windows **De bestanden in het doel vervangen**. Instellingen, kalibratie, locaties, ontvangers en geschiedenis blijven bewaard: die staan apart in uw Windows-profiel.
 
-Huidige versie: 2.5.0
+Huidige versie: 2.5.2
